@@ -2,7 +2,6 @@
  * File:   main.c
  * Author: fadime
  *
- * Created on November 15, 2016, 9:28 AM
  */
 
 #include <stdio.h>
